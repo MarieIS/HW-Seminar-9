@@ -1,0 +1,15 @@
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\obj\Debug\net7.0\task66.csproj.AssemblyReference.cache
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\obj\Debug\net7.0\task66.GeneratedMSBuildEditorConfig.editorconfig
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\obj\Debug\net7.0\task66.AssemblyInfoInputs.cache
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\obj\Debug\net7.0\task66.AssemblyInfo.cs
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\obj\Debug\net7.0\task66.csproj.CoreCompileInputs.cache
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\bin\Debug\net7.0\task66.exe
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\bin\Debug\net7.0\task66.deps.json
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\bin\Debug\net7.0\task66.runtimeconfig.json
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\bin\Debug\net7.0\task66.dll
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\bin\Debug\net7.0\task66.pdb
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\obj\Debug\net7.0\task66.dll
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\obj\Debug\net7.0\refint\task66.dll
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\obj\Debug\net7.0\task66.pdb
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\obj\Debug\net7.0\task66.genruntimeconfig.cache
+C:\!Results\IT HW\C#\Homeworks\ninth\HW-Seminar-9\task66\obj\Debug\net7.0\ref\task66.dll
